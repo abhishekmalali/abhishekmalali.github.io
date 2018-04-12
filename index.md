@@ -16,7 +16,7 @@ I am primarily interested in applying Machine learning techniques in a robust an
 
 ## Publications
 
-1. Abhishek Malali, Ganne Chaitanya, Shashi Gowda and Kaushik Majumdar , 2016, Analysis of cortical rhythms in intracranial EEG by temporal difference operators during epileptic seizures, Biomedical Signal Processing and Control
+1. Abhishek Malali, Ganne Chaitanya, Shashi Gowda and Kaushik Majumdar , 2016, Analysis of cortical rhythms in intracranial EEG by temporal difference operators during epileptic seizures, Biomedical Signal Processing and Control [Paper](https://www.sciencedirect.com/science/article/pii/S1746809416000033)
 
 ## Research and Academic awards
 1. IACS Harvard Scholarship for $25000 (2017)
