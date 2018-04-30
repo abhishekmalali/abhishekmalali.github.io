@@ -6,3 +6,6 @@
 
 - name: "About"
   link: "/researcher/"
+
+- name: "Github"
+  link: "https://github.com/abhishekmalali"
