@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Abhishek Malali
 ---
 
 ## About Me
