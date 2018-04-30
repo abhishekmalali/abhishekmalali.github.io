@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Abhishek Malali
 
 <img class="profile-picture" src="sherlock.jpg">
 
