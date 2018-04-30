@@ -4,7 +4,7 @@ layout: default
 
 ## Abhishek Malali
 
-<img class="profile-picture" src=“Abhishek.jpg">
+<img class="profile-picture" src="Abhishek.jpg">
 
 I am currently a Data Scientist at Tribe Dynamics. My role focuses on finding data driven stories in the realm of Social media marketing. I also lead efforts at the Tribe to integrate NLP and Image processing for classification tasks which bring more value to our customers.
 
