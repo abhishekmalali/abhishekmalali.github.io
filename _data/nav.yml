@@ -1,11 +1,11 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Github"
+  link: "https://github.com/abhishekmalali"
+
 - name: "Resume"
   link: "abhishek-malali-resume.pdf"
 
 - name: "About"
-  link: "/researcher/"
-
-- name: "Github"
-  link: "https://github.com/abhishekmalali"
+  link: "index"
