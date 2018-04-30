@@ -8,7 +8,7 @@ layout: default
 
 I am currently a Data Scientist at Tribe Dynamics. My role focuses on finding data driven stories in the realm of Social media marketing. I also lead efforts at the Tribe to integrate NLP and Image processing for classification tasks which bring more value to our customers.
 
-Prior to my current stint at Tribe, I was a Masters student in Computational Science and Engineering at Harvard University. My master’s thesis applies LSTM backed models to irregular time series in Astronomy and reduced autocorrelation within residuals. I graduated with a Bachelors in Electrical and Electronics Engineering from NITK Surathkal, India and submitted a thesis for epilepsy prediction with Intra-Ictal EEG time series data.
+Prior to my current stint at Tribe, I was a Masters student in Computational Science and Engineering at Harvard University. My master’s thesis applies LSTM backed models to learn and predict on irregular time series in Astronomy and reduces autocorrelation within residuals generated from predictions. I graduated with a Bachelors in Electrical and Electronics Engineering from NITK Surathkal, India and submitted a thesis for epilepsy prediction with Intra-Ictal EEG time series data.
 
 ## Research Interest
 
@@ -25,7 +25,7 @@ I am primarily interested in applying Machine learning techniques in a robust an
 4. OP Jindal Engineering and Management Scholarship (Awarded to top 80 students in the country every year) (2010, 2012, 2013)
 
 ## Projects
-* **Deep Learning for Irregular Time Series Prediction** - 
+* **Deep Learning for Irregular Time Series Prediction** - The motivation behind the research lies in the lack of research for predicting irregular time series. Irregular time series are common in Astronomy, Banking, IOT etc. This work modifies the LSTM module accept irregularly sampled data and learn from it. The work also involves reducing the autocorrelation within the residuals which is a common problem for time series prediction methods. This is accomplished by deriving the autocorrelation for irregular series though a Continuous time AutoRegressive approximation which is theoretically valid. The autocorrelation term is used as regularization term while training the model to modify the network weights such that the correlation effect within the residuals is minimized while improving the training accuracy. We demonstrate the efficacy of the method on synthetically generated data as well as real world astronomy datasets.
 
 
 ## References
