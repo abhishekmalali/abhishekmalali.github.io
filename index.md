@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Abhishek Malali
+## About Me
 
 <img class="profile-picture" src="Abhishek.jpg">
 
