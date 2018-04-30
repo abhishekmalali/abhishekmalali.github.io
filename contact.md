@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [abhishekmalali@gmail.com](mailto:abhishekmalali@gmail.com)
 
 * Phone: [+91-123123](tel:+91-123123)
 
@@ -11,16 +11,13 @@ is_contact: true
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 2645A Harrison Street
 >
-> London
->
-> United Kingdom
+> San Francisco, CA, 94110
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/abhishekmalali/)
+2. [Github](https://github.com/abhishekmalali)
