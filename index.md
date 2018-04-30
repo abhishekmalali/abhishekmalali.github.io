@@ -39,7 +39,7 @@ I am primarily interested in applying Machine learning techniques in a robust an
 
 ## References
 
-* Pavlos Protopapas: Scientific Director, Institute of Advanced Computational Sciences, Harvard University
+* Pavlos Protopapas, Scientific Director, Institute of Advanced Computational Sciences, Harvard University
 * Kaushik Majumdar, Associate professor, Indian Statistical Institute, Bangalore
 * Jora Gonda, Associate Professor, National Institute of Technology - Karnataka, Surathkal
 
