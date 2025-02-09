@@ -17,6 +17,11 @@ Before joining Amazon, I worked as a Data Scientist at Tribe Dynamics (acquired 
 
 1. Abhishek Malali, Ganne Chaitanya, Shashi Gowda and Kaushik Majumdar , 2016, Analysis of cortical rhythms in intracranial EEG by temporal difference operators during epileptic seizures, Biomedical Signal Processing and Control [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809416000033)
 
+
+## Open Source Packages
+1. TimeFlow, TensorFlow Wrapper for Time Series Modelling [[Github]](https://github.com/abhishekmalali/TimeFlow)
+2. TimeSynth, Multipurpose Library for Synthetic Time Series [[Github]](https://github.com/TimeSynth/TimeSynth)
+
 ## Research and Academic awards
 1. IACS Harvard Scholarship for $25000 (2017)
 2. Sponsored by H2O.ai for 2nd year of M.E.(CSE) (2017)
