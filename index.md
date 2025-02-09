@@ -7,13 +7,11 @@ title: Abhishek Malali
 
 <img class="profile-picture" src="Abhishek.jpg">
 
-I am currently a Data Scientist at Tribe Dynamics. My role focuses on finding data driven stories in the realm of Social media marketing. I also lead efforts at the Tribe to integrate NLP and Image processing for classification tasks which bring more value to our customers.
+I am a Senior Applied Scientist at Amazon AGI and Alexa. 
 
-Prior to my current stint at Tribe, I was a Masters student in Computational Science and Engineering at Harvard University. My master’s thesis applies LSTM backed models to learn and predict on irregular time series in Astronomy and reduces autocorrelation within residuals generated from predictions. I graduated with a Bachelors in Electrical and Electronics Engineering from NITK Surathkal, India and submitted a thesis for epilepsy prediction with Intra-Ictal EEG time series data.
+My research focuses on the application of Large Language Models (LLMs) in conversational AI, API action generation and understanding, parameter-efficient fine-tuning, synthetic data generation, and prompt optimization through self-reflection. As a technical lead, I tackle complex business challenges by employing machine learning-driven approaches and oversee their deployment in production, either through direct involvement or by collaborating with cross-functional engineering teams. During my tenure at Amazon, I have contributed to enhancing speech model personalization, developing context-driven query correction models, and creating cross-functional products aimed at elevating the overall customer experience. Additionally, I have led a small team, providing both individual technical contributions and mentorship to optimize team performance and foster professional growth. 
 
-## Research Interest
-
-I am primarily interested in applying Machine learning techniques in a robust and scalable manner to a variety of problems. My previous research experiences have spanned from applying classical time series methods to deep learning to problems in vastly different domains. I am particularly interested in image and time series problems which are applied to noisy real world data. I am interested in understanding the effect of noise and the complications brought forward by such datasets. Previously I have handled noisy datasets in astronomy and medical research.
+Before joining Amazon, I worked as a Data Scientist at Tribe Dynamics (acquired by CreatorIQ), focusing on refining models for classifying social media data for marketing purposes. I hold a Master’s degree in Computational Science and Engineering from Harvard University, where I published a thesis on predicting irregular time series in Astronomy and addressing autocorrelation in residuals through modifications to LSTM architectures. I also earned a Bachelor's degree in Electrical and Electronics Engineering from NITK Surathkal, India, with a research project on epilepsy prediction using Intra-Ictal EEG time series data during my undergraduate studies.
 
 ## Publications
 
