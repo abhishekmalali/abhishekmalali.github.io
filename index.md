@@ -5,7 +5,7 @@ title: Abhishek Malali
 
 ## About Me
 
-<img class="profile-picture" src="Abhishek.jpg">
+<img class="profile-picture" src="Abhishek.jpeg">
 
 I am a Senior Applied Scientist at Amazon AGI and Alexa. 
 
